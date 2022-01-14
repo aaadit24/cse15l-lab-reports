@@ -15,7 +15,19 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.\
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 
 After entering your password you should see a window similar to the one below
-
-![Remotely Connecting](https://user-images.githubusercontent.com/97692709/149591637-c5e14c17-defb-4be0-b033-c67b2dc01a02.png)
+![Remotely Connecting](https://user-images.githubusercontent.com/97692709/149595378-8d3c91f8-4733-46fe-9be8-31fdce6012d3.png)
 
 3. Try running the commands cd, ls, pwd, mkdir, and cp
+
+![Trying Some Commands](https://user-images.githubusercontent.com/97692709/149592012-952885e8-66f7-4c0c-b6e2-e8529a0fbe33.png)
+
+4. <code>
+  class WhereAmI {
+  public static void main(String[] args) {
+    System.out.println(System.getProperty("os.name"));
+    System.out.println(System.getProperty("user.name"));
+    System.out.println(System.getProperty("user.home"));
+    System.out.println(System.getProperty("user.dir"));
+  }
+}
+  </code>
