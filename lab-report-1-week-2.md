@@ -21,7 +21,8 @@ After entering your password you should see a window similar to the one below
 
 ![Trying Some Commands](https://user-images.githubusercontent.com/97692709/149592012-952885e8-66f7-4c0c-b6e2-e8529a0fbe33.png)
 
-4. <code>
+4. 
+<code>
   class WhereAmI {
   public static void main(String[] args) {
     System.out.println(System.getProperty("os.name"));
@@ -30,4 +31,4 @@ After entering your password you should see a window similar to the one below
     System.out.println(System.getProperty("user.dir"));
   }
 }
-  </code>
+</code>
