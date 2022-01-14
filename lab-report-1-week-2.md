@@ -33,13 +33,26 @@ You should see something similar to the image below
 
 ![Moving Files with scp](https://user-images.githubusercontent.com/97692709/149596724-1e6fd93d-c726-4682-9099-11b98d2a9a22.png)
 
-5. type the following
+5. Using ssh keys we will not have to repeately input our password. The following command will create a public key and a private key which will be used to log in instead of a password
+
+Type the following
 
 > ssh-keygen
 
+You can leave the prompts empty and then your terminal should look similar to the image below
+
 ![Screenshot 2022-01-15 021342](https://user-images.githubusercontent.com/97692709/149597070-c353d1a5-1d7b-4b74-b1dd-35b4cfcf4b06.png)
+
+Now run the following command
+
 ![Screenshot 2022-01-15 022225](https://user-images.githubusercontent.com/97692709/149597637-a709070d-d41f-4bdf-8272-05a51a9264cd.png)
+
+Run the following command put replace the destination of the key with the one provided in your terminal above (destination of the key)
+
 ![Screenshot 2022-01-15 021908](https://user-images.githubusercontent.com/97692709/149597642-e3a8b743-a29c-49fc-aa03-aef7adbdec76.png)
+
+As you can see below, I was logged into my account without inputting my password
+
 ![Screenshot 2022-01-15 021949](https://user-images.githubusercontent.com/97692709/149597645-9260728c-c284-4613-acc3-2642761c29c5.png)
 
 
