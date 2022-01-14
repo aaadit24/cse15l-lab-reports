@@ -33,3 +33,11 @@ You should see something similar to the image below
 
 ![Moving Files with scp](https://user-images.githubusercontent.com/97692709/149596724-1e6fd93d-c726-4682-9099-11b98d2a9a22.png)
 
+5. type the following
+
+> ssh-keygen
+
+![Screenshot 2022-01-15 021342](https://user-images.githubusercontent.com/97692709/149597070-c353d1a5-1d7b-4b74-b1dd-35b4cfcf4b06.png)
+
+![Screenshot 2022-01-15 020708](https://user-images.githubusercontent.com/97692709/149597542-e84a3ede-9ef4-482f-99dd-2d1d6ca340bd.png)
+
