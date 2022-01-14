@@ -3,14 +3,14 @@
 
 Then instal a program called [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse), look up your CSE15L account email [here](https://sdacs.ucsd.edu/~icc/index.php) and reset your password.
 
-2. Open the terminal in VS Code and type the following:
+2. Open the terminal in VS Code and type the following, but replace the aeg with your course specific username:
 
-> $ ssh cs15lwi22zz@ieng6.ucsd.edu
+> ssh cs15lwi22aeg@ieng6.ucsd.edu
 
-you will get the message below. type yes.
+You will get the message below. Type yes.
 
-> The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
-
-RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-
+> The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.\
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.\
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+
+After entering your password you should see a window similar to the one below
