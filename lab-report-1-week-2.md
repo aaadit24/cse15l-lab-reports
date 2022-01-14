@@ -18,3 +18,4 @@ After entering your password you should see a window similar to the one below
 
 ![Remotely Connecting](https://user-images.githubusercontent.com/97692709/149591637-c5e14c17-defb-4be0-b033-c67b2dc01a02.png)
 
+3. Try running the commands cd, ls, pwd, mkdir, and cp
