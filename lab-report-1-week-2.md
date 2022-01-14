@@ -1,12 +1,12 @@
 # Week 2 Lab Report
 
-1) First Instal [Visual Studio Code](https://code.visualstudio.com/)
+1) First Instal [Visual Studio Code](https://code.visualstudio.com/). Setting this up is easy as its a streamlined process and all instructions are provided while setting up.
 
 ![VSCode](https://user-images.githubusercontent.com/97692709/149589685-3cb3fc3c-7a62-458f-9253-8060420b9aa9.png)
 
-Then instal a program called [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse), look up your CSE15L account email [here](https://sdacs.ucsd.edu/~icc/index.php) and reset your password.
+2) Then instal a program called [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse), look up your CSE15L account email [here](https://sdacs.ucsd.edu/~icc/index.php) and reset your password.
 
-2) Open the terminal in VS Code and type the following, but replace the aeg with your course specific username:
+Open the terminal in VS Code and type the following, but replace the aeg with your course specific username:
 
 > ssh cs15lwi22aeg@ieng6.ucsd.edu
 
