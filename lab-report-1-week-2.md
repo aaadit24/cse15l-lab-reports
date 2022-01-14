@@ -38,6 +38,9 @@ You should see something similar to the image below
 > ssh-keygen
 
 ![Screenshot 2022-01-15 021342](https://user-images.githubusercontent.com/97692709/149597070-c353d1a5-1d7b-4b74-b1dd-35b4cfcf4b06.png)
+![Screenshot 2022-01-15 022225](https://user-images.githubusercontent.com/97692709/149597637-a709070d-d41f-4bdf-8272-05a51a9264cd.png)
+![Screenshot 2022-01-15 021908](https://user-images.githubusercontent.com/97692709/149597642-e3a8b743-a29c-49fc-aa03-aef7adbdec76.png)
+![Screenshot 2022-01-15 021949](https://user-images.githubusercontent.com/97692709/149597645-9260728c-c284-4613-acc3-2642761c29c5.png)
 
-![Screenshot 2022-01-15 020708](https://user-images.githubusercontent.com/97692709/149597542-e84a3ede-9ef4-482f-99dd-2d1d6ca340bd.png)
 
+![Screenshot 2022-01-15 022902](https://user-images.githubusercontent.com/97692709/149598014-25fff4f4-8cb6-4a3e-8580-7c359f0235f7.png)
