@@ -1,3 +1,5 @@
+# Week 2 Lab Report
+
 1. First Instal [Visual Studio Code](https://code.visualstudio.com/)
 
 ![VSCode](https://user-images.githubusercontent.com/97692709/149589685-3cb3fc3c-7a62-458f-9253-8060420b9aa9.png)
@@ -55,5 +57,6 @@ As you can see below, I was logged into my account without inputting my password
 
 ![Screenshot 2022-01-15 021949](https://user-images.githubusercontent.com/97692709/149597645-9260728c-c284-4613-acc3-2642761c29c5.png)
 
+6. You can now use all the command you have learned and more fro smooth running of programs, such as writing a command in quotes at the end of an ssh command. 
 
 ![Screenshot 2022-01-15 022902](https://user-images.githubusercontent.com/97692709/149598014-25fff4f4-8cb6-4a3e-8580-7c359f0235f7.png)
