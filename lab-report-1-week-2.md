@@ -21,14 +21,4 @@ After entering your password you should see a window similar to the one below
 
 ![Trying Some Commands](https://user-images.githubusercontent.com/97692709/149592012-952885e8-66f7-4c0c-b6e2-e8529a0fbe33.png)
 
-4. 
-<code>
-  class WhereAmI {
-  public static void main(String[] args) {
-    System.out.println(System.getProperty("os.name"));
-    System.out.println(System.getProperty("user.name"));
-    System.out.println(System.getProperty("user.home"));
-    System.out.println(System.getProperty("user.dir"));
-  }
-}
-</code>
+4. We will now copy files over ssh wich scp. Create a file on your computer called WhereAmI.java and put the following contents into it: 
