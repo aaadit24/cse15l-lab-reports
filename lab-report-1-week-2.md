@@ -8,7 +8,7 @@
 
 Open the terminal in VS Code and type the following, but replace the aeg with your course specific username:
 
-> ssh cs15lwi22aeg@ieng6.ucsd.edu
+''' ssh cs15lwi22aeg@ieng6.ucsd.edu
 
 You will get the message below. Type yes.
 
