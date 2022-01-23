@@ -29,7 +29,7 @@ After entering your password you should see a window similar to the one below
 
 Then, in the terminal from the directory where you made this file, run this command, using your username:
 
-> scp WhereAmI.java cs15lwi22aeg@ieng6.ucsd.edu:~/
+''' scp WhereAmI.java cs15lwi22aeg@ieng6.ucsd.edu:~/
 
 You should see something similar to the image below
 
