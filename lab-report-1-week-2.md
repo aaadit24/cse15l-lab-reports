@@ -24,7 +24,8 @@ After entering your password you should see a window similar to the one below
 ![Trying Some Commands](https://user-images.githubusercontent.com/97692709/149592012-952885e8-66f7-4c0c-b6e2-e8529a0fbe33.png)
 
 4) We will now copy files over ssh wich scp. Create a file on your computer called WhereAmI.java and put the following contents into it: 
-```class WhereAmI {
+```
+class WhereAmI {
   public static void main(String[] args) {
     System.out.println(System.getProperty("os.name"));
     System.out.println(System.getProperty("user.name"));
@@ -33,7 +34,6 @@ After entering your password you should see a window similar to the one below
   }
 }
 ```
-![Code](https://user-images.githubusercontent.com/97692709/149596611-58099bbe-a757-4567-8fa6-41af3f5aaebd.png)
 
 Then, in the terminal from the directory where you made this file, run this command, using your username:
 
