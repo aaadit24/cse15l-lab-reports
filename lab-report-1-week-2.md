@@ -61,10 +61,12 @@ $ ssh cs15lwi22zz@ieng6.ucsd.edu
 $ mkdir .ssh
 $ <logout>
 ```
-![Screenshot 2022-01-15 022225](https://user-images.githubusercontent.com/97692709/149597637-a709070d-d41f-4bdf-8272-05a51a9264cd.png)
+
 
 Run the following command put replace the destination of the key with the one provided in your terminal above (destination of the key)
-
+```
+scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
+```
 ![Screenshot 2022-01-15 021908](https://user-images.githubusercontent.com/97692709/149597642-e3a8b743-a29c-49fc-aa03-aef7adbdec76.png)
 
 As you can see below, I was logged into my account without inputting my password
