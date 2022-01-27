@@ -85,5 +85,11 @@ As you can see below, I was logged into my account without inputting my password
 ## Optimizing Remote Running
 
 6) You can now use all the command you have learned and more for smooth running of programs, such as writing a command in quotes at the end of an ssh command. 
+```
+scp WhereAmI.java cs15lwi22aeq@ieng6.ucsd.edu:~/
+ssh cs15lwi22aeq@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"
 
+```
+
+running the following command took me 6 keystrokes and less that 2 minuite
 ![Screenshot 2022-01-15 022902](https://user-images.githubusercontent.com/97692709/149598014-25fff4f4-8cb6-4a3e-8580-7c359f0235f7.png)
