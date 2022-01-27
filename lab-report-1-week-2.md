@@ -54,7 +54,13 @@ You can leave the prompts empty and then your terminal should look similar to th
 ![Screenshot 2022-01-15 021342](https://user-images.githubusercontent.com/97692709/149597070-c353d1a5-1d7b-4b74-b1dd-35b4cfcf4b06.png)
 
 Now run the following command
-
+```
+$ ssh cs15lwi22zz@ieng6.ucsd.edu
+<Enter Password>
+# now on server
+$ mkdir .ssh
+$ <logout>
+```
 ![Screenshot 2022-01-15 022225](https://user-images.githubusercontent.com/97692709/149597637-a709070d-d41f-4bdf-8272-05a51a9264cd.png)
 
 Run the following command put replace the destination of the key with the one provided in your terminal above (destination of the key)
