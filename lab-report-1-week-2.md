@@ -19,12 +19,20 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 After entering your password you should see a window similar to the one below
 ![Remotely Connecting](https://user-images.githubusercontent.com/97692709/149595378-8d3c91f8-4733-46fe-9be8-31fdce6012d3.png)
 
-3) Try running the commands cd, ls, pwd, mkdir, and cp
+3) Try running the commands ```cd ```, ``` ls``` , ```pwd```, ```mkdir```, and ```cp```
 
 ![Trying Some Commands](https://user-images.githubusercontent.com/97692709/149592012-952885e8-66f7-4c0c-b6e2-e8529a0fbe33.png)
 
 4) We will now copy files over ssh wich scp. Create a file on your computer called WhereAmI.java and put the following contents into it: 
-
+```class WhereAmI {
+  public static void main(String[] args) {
+    System.out.println(System.getProperty("os.name"));
+    System.out.println(System.getProperty("user.name"));
+    System.out.println(System.getProperty("user.home"));
+    System.out.println(System.getProperty("user.dir"));
+  }
+}
+```
 ![Code](https://user-images.githubusercontent.com/97692709/149596611-58099bbe-a757-4567-8fa6-41af3f5aaebd.png)
 
 Then, in the terminal from the directory where you made this file, run this command, using your username:
