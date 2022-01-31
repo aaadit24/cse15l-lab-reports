@@ -4,7 +4,8 @@
 
 ## Link to the test file for a failure-inducing input that prompted you to make that change
 
-https://github.com/aaadit24/markdown-parse/blob/main/test-file.md
+[Link to test file](https://github.com/aaadit24/markdown-parse/blob/main/test-file.md)
+
 
 ## Show the symptom of that failure-inducing input by showing the output of running the file at the command line for the version where it was failing (this should also be in the commit message history)
 
