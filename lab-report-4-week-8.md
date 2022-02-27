@@ -16,3 +16,13 @@ cod[e
 
 code] 
 ```
+
+## Showing the code in MarkdownParseTest.java for how you turned it into a test
+
+```
+@Test
+public void snippet1() {
+  String str = "`[a link`](url.com)" + "[another link](`google.com)`" + "[`cod[e`](google.com)" + "[`code]`](ucsd.edu)";
+  assertEquals( "Validate MarkdownParse on snippet 1", List.of(""google.com", "ucsd.edu"), MarkdownParse.getLinks(str));
+}
+```
