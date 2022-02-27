@@ -7,10 +7,12 @@
 ## Decide on what it should produce by using either VScode preview or the CommonMark demo site
 ### CommonMark Demo Expected
 
-``` [a link](url.com)
+``` 
+[a link](url.com)
 
 another link`
 
 cod[e
 
-code] ```
+code] 
+```
