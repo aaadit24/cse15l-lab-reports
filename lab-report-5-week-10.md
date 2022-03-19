@@ -34,7 +34,12 @@
 
 ```
 
-closeParen = markdown.indexOf(")", openParen);
+int nextOpenBracket = markdown.indexOf("[", currentIndex),
+    nextCloseBracket = markdown.indexOf("]", currentIndex),
+    openParen = markdown.indexOf("(", nextCloseBracket),
+    //Following line caused the error
+    closeParen = markdown.indexOf(")", openParen);
+    
 
 ```
 
